@@ -78,6 +78,9 @@
         <mxCell id="yfyngpZ6kTW5o_8SKnOL-23" value="Refeição&lt;div&gt;diária&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="530" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gZ_IPukIXz_eJjO1my4D-1" value="Diagrama conceitual" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="540" height="590" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
